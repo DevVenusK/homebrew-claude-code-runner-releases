@@ -1,3 +1,6 @@
+
+<img width="256" height="256" alt="icon_512x512@2x" src="https://github.com/user-attachments/assets/c5aa05dc-655f-41ce-97dd-7c5a813f1358" />
+
 # Claude Code Runner
 
 Mac menu bar app that monitors your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions in real time.
@@ -11,6 +14,8 @@ The menu bar icon shows a terminal with scrolling green code lines when Claude i
 | Terminal with scrolling code | **Working** - Claude is processing (API call or tool execution) |
 | Black terminal (solid) | **Idle** - Claude is waiting for your input |
 | Dimmed terminal | **Inactive** - No active sessions |
+
+https://github.com/user-attachments/assets/8618f8f7-a784-4dfe-90a7-5cac23319843
 
 ## Installation
 
