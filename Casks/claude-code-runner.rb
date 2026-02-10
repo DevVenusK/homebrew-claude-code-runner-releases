@@ -1,5 +1,5 @@
 cask "claude-code-runner" do
-  version "1.0.0"
+  version "1.0.1"
   sha256 :no_check # Updated on each release
 
   url "https://github.com/DevVenusK/homebrew-claude-code-runner-releases/releases/download/v#{version}/ClaudeCodeRunner-#{version}.dmg"
