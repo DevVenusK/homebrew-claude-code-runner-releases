@@ -1,6 +1,6 @@
 cask "claude-code-runner" do
   version "1.0.2"
-  sha256 "d9420945c582d08a02ea3ba83eed18c446a5876b6ff4c759e6f52361f1a77334"
+  sha256 "c8fffe18e35050c8f9d1fe74f8610c9db3e87d383cbb754a398dca62db9f775c"
 
   url "https://github.com/DevVenusK/homebrew-claude-code-runner-releases/releases/download/v#{version}/ClaudeCodeRunner-#{version}.dmg"
   name "Claude Code Runner"
